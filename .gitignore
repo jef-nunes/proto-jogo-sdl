@@ -1,0 +1,5 @@
+bin/
+*.code-workspace
+*.bin
+*.exe
+rebuild
